@@ -9,6 +9,5 @@
 4) Come to the javascript and replace with those session and token id's 
 
 5) And create the respective divs in your html.
-
-<div id="tokboxpublisher"></div>  and <div id="tokboxpublishviewr"></div
+id="tokboxpublisher" and   id="tokboxpublishviewr"
 
